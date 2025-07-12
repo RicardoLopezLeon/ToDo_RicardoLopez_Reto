@@ -1,0 +1,46 @@
+.Search-Tasks-Pending{
+    background-color: #FFEFD5;
+    color: #C15C00;
+    border-radius: 20px;
+}
+
+.Search-Tasks-Progress{
+    background-color: #B3E5FC;
+    color: #014361; 
+    border-radius: 20px;
+}
+
+.Search-Tasks-Completed{
+    background-color: #C8E6C9;
+    color: #1B5E20;  
+    border-radius: 20px;
+}
+
+.Search-Tasks-Pending-Btn{
+    background-color: #FFA726;
+    color: #FFFFFF;
+}
+
+.Search-Tasks-Progress-Btn{
+    background-color: #29B6F6;
+    color: #FFFFFF;
+}
+
+.Search-Tasks-Completed-Btn{
+    background-color: #66BB6A;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.Search-Task-Description{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem 0 1rem;
+}
+
+.Fade-Out {
+  opacity: 0;
+  transition: opacity 250ms ease;
+}

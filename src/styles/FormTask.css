@@ -1,0 +1,37 @@
+.container-Form{
+    max-width: 40dvw;
+}
+
+.Form-State {
+    display: flex;
+    flex-direction: column;
+}
+
+.Form-State-Text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Form-State-Buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 3rem;
+
+
+}
+
+.Form-TextField {
+    width: 35dvw !important;
+}
+
+@media screen and (max-width: 700px) {
+    .container-Form{
+    max-width: 74dvw;
+}
+.Form-TextField {
+    width: 60dvw !important;
+}
+}
