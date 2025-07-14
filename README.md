@@ -28,7 +28,7 @@ Y, por supuesto, ToDo_RicardoLopez_Reto es de código abierto y cuenta con un re
 
 ## Instalation
 
-Concentration o Memory fue desarrollado con React v19+.
+ToDo fue desarrollado con React v19+.
 
 Descargar el proyecto desde el reposirotio de GitHub y posteriormente instalar las dependencias.
 
