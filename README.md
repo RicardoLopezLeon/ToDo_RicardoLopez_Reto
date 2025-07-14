@@ -16,7 +16,7 @@ ToDo_RicardoLopez_Reto es una aplicación web de lista de tareas (To-Do App), de
 
 ## Tech
 
-Concentration o Memory utiliza varios proyectos de código abierto para el funcionamineto correcto
+ToDo_RicardoLopez_Reto utiliza varios proyectos de código abierto para el funcionamineto correcto
 - [ReactJS] - Biblioteca para construir interfaces de usuario.
 - [Vite] - Bundler moderno y rápido para desarrollo frontend.
 - [Visual Studio Code] - Editor de código fuente.
